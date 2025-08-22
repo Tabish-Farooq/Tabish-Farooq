@@ -1,9 +1,3 @@
-<!-- GIF Banner -->
-<p align="center">
-  <img src="https://github.com/Tabish-Farooq/Tabish-Farooq/blob/main/react_native_gif.gif?raw=true" 
-       alt="React Native GIF" width="600"/>
-</p>
-
 <h1 align="center">Hello, I’m Tabish Farooq</h1>
 <h3 align="center">Aspiring React Native developer from India, specializing in building cross-platform mobile applications</h3>
 
@@ -24,7 +18,7 @@
 
 ## 🌐 Connect with me  
 <p align="left">
-  <a href="https://linkedin.com/in/tabish-farooq" target="blank">
+  <a href="https://www.linkedin.com/in/tabish-farooq-704191322" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
