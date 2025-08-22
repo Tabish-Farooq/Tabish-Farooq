@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **React Native**
 - 🌱 I’m currently learning **Advanced React Native Concepts (Redux Toolkit, Navigation, Animations)**
 - 👯 I’m looking to collaborate on **React Native projects**
-- 👨‍💻 All of my projects are available on [![GitHub](https://img.shields.io/badge/GitHub-Tabish--Farooq-181717?style=for-the-badge&logo=github)](https://github.com/Tabish-Farooq)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Tabish-Farooq)
 - 📝 Articles [Coming soon...](#)
 - 💬 Ask me about **React Native, ReactJS, TypeScript, JavaScript**
 - 📫 Reach me at **tabishfarooqvctm@gmail.com**
