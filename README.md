@@ -1,10 +1,11 @@
 <!-- Banner GIF -->
 <p align="center">
-  <img src="https://github.com/Tabish-Farooq/Tabish-Farooq/blob/main/assets/react_native.gif" alt="React Native Banner" />
+  <img src="https://raw.githubusercontent.com/Tabish-Farooq/Tabish-Farooq/main/react_native.gif" alt="React Native Banner" />
 </p>
 
 <h1 align="center">Hello, I’m Tabish Farooq</h1>
 <h3 align="center">Aspiring React Native developer from India, specializing in building cross-platform mobile applications</h3>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tabish-farooq&label=Profile%20views&color=0e75b6&style=flat" alt="tabish-farooq" /> 
