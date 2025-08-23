@@ -3,8 +3,9 @@
 <img src="https://github.com/Tabish-Farooq/Tabish-Farooq/blob/main/react_native.gif" />
 </p>
 
-<h1 align="center">Hello, I’m Tabish Farooq</h1>
-<h3 align="center">Aspiring React Native developer from India, specializing in building cross-platform mobile applications</h3>
+<h1 align="center"><b>Tabish Farooq</b></h1>
+<h3 align="center">React Native Developer • Cross-Platform Mobile Applications</h3>
+
 
 
 <p align="left"> 
