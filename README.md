@@ -1,3 +1,8 @@
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://github.com/Tabish-Farooq/Tabish-Farooq/blob/main/assets/react_native.gif" alt="React Native Banner" />
+</p>
+
 <h1 align="center">Hello, I’m Tabish Farooq</h1>
 <h3 align="center">Aspiring React Native developer from India, specializing in building cross-platform mobile applications</h3>
 
@@ -56,7 +61,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
-
 
 ---
 
