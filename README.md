@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <p align="center">
- <img src="https://github.com/Tabish-Farooq/Tabish-Farooq/blob/main/react_native.gif" width="100%" height="200px" />
+<img src="https://github.com/Tabish-Farooq/Tabish-Farooq/blob/main/react_native.gif" />
 </p>
 
 <h1 align="center">Hello, I’m Tabish Farooq</h1>
