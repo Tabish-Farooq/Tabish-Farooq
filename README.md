@@ -3,9 +3,8 @@
 <img src="https://github.com/Tabish-Farooq/Tabish-Farooq/blob/main/react_native.gif" />
 </p>
 
-<h1 align="center"><b>Tabish Farooq</b></h1>
-<h3 align="center">React Native Developer • Cross-Platform Mobile Applications</h3>
-
+<h1 align="center">Hello, I’m <b>Tabish Farooq</b></h1>
+<h3 align="center">React Native Developer • Focused on creating scalable and seamless mobile experiences</h3>
 
 
 <p align="left"> 
